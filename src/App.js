@@ -9,6 +9,13 @@ function App() {
         <p>
           수정 ver 3 노트북 수정 사항입니다.
         </p>
+        <nav>
+          leader is in charge
+          나 메인에서 수정했어
+        </nav>
+        <footer>
+          
+        </footer>
         <a
           className="App-link"
           href="https://reactjs.org"
